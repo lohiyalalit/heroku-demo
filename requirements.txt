@@ -1,0 +1,4 @@
+Flask
+keras
+numpy
+pillow
